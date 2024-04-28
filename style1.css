@@ -1,0 +1,26 @@
+body{
+  background-image: url('./dock-5539524_1280.jpg');
+  background-attachment: fixed;
+}
+div{
+  display: inline;
+  float: right;
+  width: 350px;
+  background-color: antiquewhite;
+  color: red;
+}
+h1{
+  color: cadetblue;
+}
+h4{
+  color: antiquewhite;
+}
+button#one:hover{
+  color: brown;
+  background-color: aquamarine;
+
+}
+button#two:hover{
+  color: black;
+  background-color: red;
+}
